@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Bloodhounds",
+    "id": "bloodhounds",
+    "rating": "8.6",
+    "description": "In 2023, two young boxers team up to bring down a ruthless loan shark and his criminal empire in a gritty action-packed drama.",
+    "cast": ["Woo Do-hwan ", "Lee Sang-yi ", "Heo Joon-ho "],
+    "genre": ["Action ", "Crime ", "Thriller "],
+    "watch_url": "https://w1.myasiantv.ru/bloodhounds-2023-episode-1-english-sub/"
+  },
+  {
+    "name": "Kabhi Mai Kabhi Tum",
+    "id": "kabhi-mai-kabhi-tum",
+    "rating": "7.2",
+    "description": "A family drama revolving around love, betrayal, and relationships, where bonds are tested in trying times.",
+    "cast": ["Javed Sheikh ", "Hania Amir ", "Fahad Mustafa "],
+    "genre": ["Drama ", "Family "],
+    "watch_url": "https://www.youtube.com/watch?v=MyLZnzEcnG8&list=PLb2aaNHUy_gHlSsv6128U9ZeoAPbZyBuj"
+  },
+  {
+    "name": "Extracurricular",
+    "id": "extracurricular",
+    "rating": "8.9",
+    "description": "A high school student becomes involved in a dangerous criminal world to earn money and faces unexpected consequences.",
+    "cast": ["Kim Dong-hee ", "Jung Da-bin ", "Park Ju-hyun "],
+    "genre": ["Crime ", "Drama ", "Thriller "],
+    "watch_url": "https://archive.org/details/extracurricular.-s-01e-10.720-p.-nf.-web-dl.-ddp-5.1.-x-264-mzabi-1"
+  },
+  {
+    "name": "Mamla Legal Hai",
+    "id": "mamla-legal-hai",
+    "rating": "7.8",
+    "description": "An Indian comedy series centered around a dysfunctional legal team that handles absurd cases with a hilarious twist, blending satire and courtroom drama.",
+    "cast": ["Kapil Sharma ", "Ali Asgar ", "Kiku Sharda "],
+    "genre": ["Comedy ", "Crime "],
+    "watch_url": "https://www.dailymotion.com/video/x8tqo7k"
+  },
+  {
+    "name": "Ms. Marvel",
+    "id": "ms-marvel",
+    "rating": "6.9",
+    "description": "Kamala Khan, a young Pakistani-American teen, discovers her superpowers while juggling her family, school, and identity as Ms. Marvel.",
+    "cast": ["Iman Vellani ", "Matt Lintz ", "Yasmeen Fletcher "],
+    "genre": ["Action ", "Adventure ", "Comedy "],
+    "watch_url": "https://www.dailymotion.com/video/x8bahoc"
+  },
+  {
+    "name": "Love 020",
+    "id": "love-020",
+    "rating": "10",
+    "description": "A Chinese romantic drama where a talented computer science student, Bei Weiwei, gets noticed by the most popular guy on campus, who is also an expert in online gaming.",
+    "cast": ["Yang Yang ", "Zheng Shuang ", "Mao Xiaotong "],
+    "genre": ["Romance ", "Drama ", "Comedy"],
+    "watch_url": "https://www.youtube.com/watch?v=yq151jt8izY&list=PLLihMeK5_5GQj1bKjpJIm5rgTfllbOWlh"
+  },
+  {
+    "name": "Never Have I Ever",
+    "id": "never-have-i-ever",
+    "rating": "7.9",
+    "description": "A coming-of-age comedy-drama about an Indian-American teenager dealing with the pressures of high school, her family, and her complicated love life.",
+    "cast": ["Maitreyi Ramakrishnan ", "Darren Barnet ", "Poorna Jagannathan "],
+    "genre": ["Comedy ", "Drama "],
+    "watch_url": "https://www.netflix.com/title/80179190"
+  },
+  {
+    "name": "Serious Men",
+    "id": "serious-men",
+    "rating": "7.1",
+    "description": "Tormented with his underprivileged societal status, a man spins a web of lies to gain social standing and live a better life through his son.",
+    "cast": ["Nawazuddin Siddiqui ", "Indira Tiwari ", "Aakshath Das "],
+    "genre": ["Drama "],
+    "watch_url": "https://archive.org/details/serious-men-2020-hindi"
+  },
+  {
+    "name": "Brooklyn Nine-Nine",
+    "id": "brooklyn-nine-nine",
+    "rating": "6.3",
+    "description": "Jake Peralta, an immature but talented NYPD detective, must learn to work with a by-the-book captain.",
+    "cast": ["Andy Samberg ", "Terry Crews ", "Andre Braugher "],
+    "genre": ["Comedy ", "Crime "],
+    "watch_url": "https://ww4.123moviesfree.net/search/?q=brooklyn+nine"
+  }
+]

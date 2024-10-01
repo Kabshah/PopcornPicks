@@ -1,0 +1,63 @@
+.card-heading {
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 2rem;
+    color: #f0e68c; 
+    text-align: center; 
+}
+.super_hit {
+    background-color: #28a745;;
+}
+.average{
+    background-color: yellow;
+}
+.rating{
+    padding: 0.3rem 1.8rem;
+    color: black;
+    margin-left: 1.2rem;
+    border-radius: 100rem;
+}
+p.footer{
+    text-align: center;
+    letter-spacing: 1px;
+    font-family: 'Roboto', sans-serif; /* Modern, clean sans-serif */
+    font-size: 15px;
+    background-color: black; /* Dark background for contrast */
+        color: #ffffff;
+        padding: 1px 0;
+        margin-top: 0;
+    
+}
+button{
+    background-color: #e50914;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #ff6e69;
+}
+body {
+    background: black;
+    font-family: 'Lato', sans-serif; 
+    color: peru;
+    margin: 0; 
+    padding: 20px; 
+}
+ul {
+    list-style-type: none; /* Remove default bullets */
+    padding: 0; /* Remove padding */
+  }
+  
+  li {
+    position: relative; /* Set position relative for the emoji */
+    padding-left: 1.5em; /* Add some padding to the left */
+  }
+  
+  li::before {
+    content: "💿"; /* Add the disk emoji */
+    position: absolute; /* Position it absolutely */
+    left: 0; /* Align it to the left */
+  }
+  
