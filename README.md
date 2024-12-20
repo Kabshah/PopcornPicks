@@ -28,11 +28,13 @@ PopcornPicks is a React application powered by Vite that provides a platform to 
    cd popcornpicks
 
 2. Install dependencies:
-npm install
+   ```bash
+   npm install
 
 
-3. Run the development server:
-npm run dev
+4. Run the development server:
+   ```bash
+   npm run dev
 
 
 ## Acknowledgments:
